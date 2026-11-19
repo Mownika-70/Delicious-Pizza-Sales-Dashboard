@@ -1,2 +1,20 @@
-# Delicious-Pizza-Sales-Dashboard
-Delicious Pizza Sales Dashboard Built an interactive Power BI dashboard to analyze pizza sales across 5 state branches. It shows total sales ($189.48K), sales by manager, sales by pizza type, and daily sales vs target. I added state slicers so users can filter by branch.
+# Delicious Pizza Sales Dashboard
+
+An interactive Power BI dashboard for pizza sales analysis.
+
+## Features
+- Total sales KPI card
+- Sales by branch (map)
+- Sales by manager (donut chart)
+- Sales by pizza type (bar chart)
+- Daily sales vs target (bar chart)
+- State slicers (Arizona, California, Idaho, Nevada, Oregon)
+
+## Data Model
+Fact Sales, Branch Data, Daily Target, Sales Target
+
+## Tools
+Power BI, Power Query, DAX
+
+## Author
+Mownika V
